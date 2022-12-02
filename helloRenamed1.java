@@ -7,4 +7,5 @@ public class Hello {
         // TODO code application logic here
         System.out.println("Hello ITI!");
 		System.out.println("Hello World!");
+		System.out.println("print hello git");
     }
